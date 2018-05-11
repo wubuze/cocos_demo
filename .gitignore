@@ -1,6 +1,8 @@
-#aaaa
+
+
+
+
 library/
+local/
 temp/
-local/*
-
-
+.DS_Store
